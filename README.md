@@ -36,7 +36,7 @@ The Filipino Cookbook API is a RESTful web service developed using the Slim Fram
 ## 4. Installation Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/filipino-cookbook-api.git
+git clone https://github.com/peterterence/filipino-cookbook-api.git
 ```
 2. Open the project folder:
 ```bash
